@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HotelReservationSystem.BL/HotelReservationSystem.BL.csproj" />
+  <Project Path="HotelReservationSystem.DAL/HotelReservationSystem.DAL.csproj" />
+  <Project Path="HotelReservationSystem/HotelReservationSystem.Web.csproj" />
+</Solution>

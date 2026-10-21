@@ -1,0 +1,66 @@
+﻿{
+  "CodeGenerationMode": 4,
+  "ContextClassName": "HotelReservationDbContext",
+  "ContextNamespace": null,
+  "FilterSchemas": false,
+  "IncludeConnectionString": false,
+  "ModelNamespace": null,
+  "OutputContextPath": null,
+  "OutputPath": "Models",
+  "PreserveCasingWithRegex": true,
+  "ProjectRootNamespace": "HotelReservationSystem.DAL",
+  "Schemas": null,
+  "SelectedHandlebarsLanguage": 3,
+  "SelectedToBeGenerated": 2,
+  "T4TemplatePath": null,
+  "Tables": [
+    {
+      "Name": "[dbo].[Hotel]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Piso]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Habitacion]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Huesped]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Reserva]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Notificacion]",
+      "ObjectType": 0
+    }
+  ],
+  "UiHint": null,
+  "UncountableWords": null,
+  "UseAsyncStoredProcedureCalls": true,
+  "UseBoolPropertiesWithoutDefaultSql": false,
+  "UseDatabaseNames": false,
+  "UseDateOnlyTimeOnly": true,
+  "UseDbContextSplitting": true,
+  "UseDecimalDataAnnotationForSprocResult": true,
+  "UseFluentApiOnly": true,
+  "UseHandleBars": false,
+  "UseHierarchyId": false,
+  "UseInflector": true,
+  "UseLegacyPluralizer": false,
+  "UseManyToManyEntity": false,
+  "UseNoDefaultConstructor": false,
+  "UseNoNavigations": true,
+  "UseNoObjectFilter": false,
+  "UseNodaTime": false,
+  "UseNullableReferences": false,
+  "UsePrefixNavigationNaming": false,
+  "UseSchemaFolders": false,
+  "UseSchemaNamespaces": false,
+  "UseSpatial": false,
+  "UseT4": false
+}
